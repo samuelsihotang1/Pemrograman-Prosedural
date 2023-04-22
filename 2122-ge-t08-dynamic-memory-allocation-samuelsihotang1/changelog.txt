@@ -1,0 +1,10 @@
+tes pertama, sudah menyelesaikan algoritma, tapi belum dengan "memory allocation"
+tes kedua, dengan menghapus karakter "\n", tetap belum dengan "memory allocation"
+tes ketiga, coba 100, tapi tetap belum dengan "memory allocation"
+tes keempat, gabung 01 dan 02
+tes kelima, memperbaiki kesalahan
+tes keenam, memperbaiki langkah blunder
+tes 7, sama
+tes 8, :)
+tes 9, pakai malloc, special thanks to indian guy on youtube
+tes 15, final

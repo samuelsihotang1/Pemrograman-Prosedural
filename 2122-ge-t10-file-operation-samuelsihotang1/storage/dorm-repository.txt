@@ -1,0 +1,5 @@
+Antiokia|5|male
+Mamre|5|male
+Silo|5|male
+Mahanaim|5|male
+Nazaret|5|male

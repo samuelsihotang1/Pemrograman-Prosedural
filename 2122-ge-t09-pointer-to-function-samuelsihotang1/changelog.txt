@@ -1,0 +1,4 @@
+elon musk ever said "i dont ever give up"
+tes input dan output baru, untuk mengetahui letak kesalahannya. Apakah pada program atau input ?
+ternyata bukan di input, tapi di program, error nya sulit diperbaiki
+Telah berhasil

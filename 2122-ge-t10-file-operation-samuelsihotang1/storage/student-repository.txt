@@ -1,0 +1,5 @@
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21004|Estomihi pangaribuan|2021|male
+12S21006|Weny Sitinjak|2021|female
