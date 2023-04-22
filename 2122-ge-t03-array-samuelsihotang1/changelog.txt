@@ -1,0 +1,2 @@
+Kami telah menyelesaikan persoalan.
+Kami telah memperbaiki kesalah pada input dan looping for.

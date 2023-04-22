@@ -1,0 +1,1 @@
+Telah menyelesaikan q01_01.c dan q01_02.c

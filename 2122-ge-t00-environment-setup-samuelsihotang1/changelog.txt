@@ -1,0 +1,1 @@
+Mengedit t00_01.c dan t00_02.c
